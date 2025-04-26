@@ -1,0 +1,12 @@
+# Marimo - potential replacement for Jupyter
+
+https://marimo.io[Project page]
+https://docs.marimo.io[Documentation]
+
+## Command-line basics
+
+* Install:`$ pip install marimo`
+* Tutorial: `$ marimo tutorial intro`
+* Create new notebook: `$ marimo edit`
+* Run it in app (read-only) mode: `$ marimo run notebook.py`
+* Run tutorials: `$ marimo tutorial plots`.  Other useful tutorials: `ui`,`for-jupyter-users`
