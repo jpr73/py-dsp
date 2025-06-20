@@ -1,6 +1,7 @@
 # Marimo - potential replacement for Jupyter
 
 https://marimo.io[Project page]
+
 https://docs.marimo.io[Documentation]
 
 ## Command-line basics
