@@ -1,0 +1,4 @@
+# FixedPoint
+
+There is Python fixed point arithmetic package which provides functionality
+similar to Matlab fixed point toolbox.  See it https://fixedpoint.readthedocs.io/en/latest/index.html[here].
